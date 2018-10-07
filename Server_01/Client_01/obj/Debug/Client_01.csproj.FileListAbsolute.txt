@@ -1,0 +1,5 @@
+D:\C#\英雄杀服务器\Server_01\Client_01\bin\Debug\Client_01.exe.config
+D:\C#\英雄杀服务器\Server_01\Client_01\bin\Debug\Client_01.exe
+D:\C#\英雄杀服务器\Server_01\Client_01\bin\Debug\Client_01.pdb
+D:\C#\英雄杀服务器\Server_01\Client_01\obj\Debug\Client_01.exe
+D:\C#\英雄杀服务器\Server_01\Client_01\obj\Debug\Client_01.pdb
